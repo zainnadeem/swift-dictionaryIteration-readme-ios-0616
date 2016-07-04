@@ -6,8 +6,11 @@
 
 ## Learning Objectives - The student should be able to...
 
-* See the outline/notes. 
-* If you can, please fill this out when you're complete with this lesson as you will get a better sense at what to put here after the lesson is complete.
+* Retrieve values from a dictonary given a key
+* Iterate over the entries (key/value pairs) in a dictionary
+* Understand that dictionaries are unordered
+* Recognize that a dictionary's keys need not be the same type as its values
+* Recognize that types other than `String`s can be stored in a dictionary
 
 ## Recapping Dictionaries
 
