@@ -17,7 +17,7 @@ if let airport = airports["JFK"] {
 }
 
 for (key, value) in airports {
-    print("The abbreviation for \(key) is \(value)")
+    print("The abbreviation for \(value) is \(key)")
 }
 
 for (airportCode, airportName) in airports {

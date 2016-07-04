@@ -92,7 +92,7 @@ for (airportCode, airportName) in airports {
 // prints The abbreviation for John F. Kennedy International Airport is JFK
 ```
 
-That's about all there is to the basics of iterating over Swift dictionaries. Since you've already learned about arrays, dictionary iteration should look pretty familiar to you, and in the end it's not much different.
+Iterating over dictionaries isn't much different than iterating over arrays. Did you notice something surprising about the output, though? The original dictionary you defined had a different order than the output. The original dictionary had keys in the order "YYZ", "DUB", and "JFK", but the dictionary output them in the order "DUB", "YYZ", and "JFK". This is because dictionaries are _unordered_. Unlike arrays, the order in which you put items is not necessarily the order you get them out when iterating. Sometimes you will get output in the same order, but this is not guaranteed.
 
 ## Much Ado About Dictionaries
 
