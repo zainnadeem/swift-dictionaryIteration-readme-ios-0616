@@ -1,8 +1,8 @@
 # Iterating Over a Dictionary
 
-![Drawing](https://cdn.theatlantic.com/assets/media/img/mt/2016/01/solo/lead_large.jpg?1452549010)
+![Drawing](http://i.imgur.com/b7yce4Z.jpg?1)
 
-> Never tell me the odds.
+> Never tell me the odds. -[Han Solo](https://en.wikipedia.org/wiki/Han_Solo)
 
 ## Learning Objectives - The student should be able to...
 
