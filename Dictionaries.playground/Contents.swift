@@ -70,3 +70,16 @@ let movies = [
 for (franchise, titles) in movies {
     print("There are \(titles.count) movies in the \(franchise) series")
 }
+
+let coolAps = [
+    "Yelp": "old",
+    "foursquare": "complicated",
+    "manesteam": "Perfect",
+]
+
+
+for(ap, description) in coolAps {
+    print("I Love \(ap) because its \(description)")
+}
+
+
